@@ -6,7 +6,7 @@ It was a group project with <a href="https://github.com/czechoa">Andrzej Czechow
 <br>
 Only the final version of the project was pushed to the github repository, because we were using the repository provided by the university.
 
-### Technologie used
+### Technologies used
 * Ubuntu 
 * C
 
